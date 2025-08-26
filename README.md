@@ -36,6 +36,5 @@
         <li>Bitcoin search trends show spikes during major price changes.</li>
         <li>US unemployment search trends anticipate changes in the official unemployment rate.</li>
     </ul>
-
     <h2>License</h2>
     <p>MIT License</p>
